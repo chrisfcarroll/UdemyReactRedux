@@ -1,0 +1,1146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Video",
+				"VideoListItem"
+			],
+			[
+				"on",
+				"onKeyPress"
+			],
+			[
+				"sear",
+				"searchBoxPlaceholderText"
+			],
+			[
+				"sea",
+				"SearchBar"
+			],
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"proje",
+				"projectDirectory"
+			],
+			[
+				"proj",
+				"projectDirectory"
+			],
+			[
+				"tag",
+				"tagnumber"
+			],
+			[
+				"tar",
+				"targetFile"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"firewa",
+				"firewalld"
+			],
+			[
+				"de",
+				"deploySetName"
+			],
+			[
+				"depl",
+				"deploySetName"
+			],
+			[
+				"scr",
+				"scriptfile"
+			],
+			[
+				"pos",
+				"postmanendpointsfilename"
+			],
+			[
+				"env",
+				"environmentfilename"
+			],
+			[
+				"remo",
+				"remotehost"
+			],
+			[
+				"deplo",
+				"deploywhere"
+			],
+			[
+				"ext",
+				"exthttpprefixes"
+			],
+			[
+				"htt",
+				"http-5003"
+			],
+			[
+				"lb",
+				"lbvminvpc"
+			],
+			[
+				"fail",
+				"fail2ban-client"
+			],
+			[
+				"lbua",
+				"lbuat1host"
+			],
+			[
+				"remote",
+				"remoteuser"
+			],
+			[
+				"id",
+				"idcertificatepath"
+			],
+			[
+				"post",
+				"postgrespathtopasswords"
+			],
+			[
+				"lbsc",
+				"lbscripts"
+			],
+			[
+				"te",
+				"tenantId"
+			],
+			[
+				"Te",
+				"TenantId"
+			],
+			[
+				"do",
+				"doDatabase"
+			],
+			[
+				"dot",
+				"dotnetCentos104Url"
+			],
+			[
+				"lbscr",
+				"lbscriptrunner"
+			],
+			[
+				"Le",
+				"LegalBricks"
+			],
+			[
+				"we",
+				"webapi"
+			],
+			[
+				"py",
+				"pythonlinuxversionstring"
+			],
+			[
+				"key",
+				"keyfile"
+			],
+			[
+				"postg",
+				"postgresConnectionString"
+			],
+			[
+				"data",
+				"databaseAndEventstoreOnly"
+			],
+			[
+				"sqlE",
+				"sqlExpressName"
+			],
+			[
+				"run",
+				"runEventstore"
+			],
+			[
+				"dep",
+				"deployables"
+			],
+			[
+				"build",
+				"build1by1"
+			],
+			[
+				"up",
+				"updatecfcusto"
+			],
+			[
+				"fire",
+				"firewall-cmd"
+			],
+			[
+				"deploy",
+				"deploywhat"
+			],
+			[
+				"po",
+				"postmanendpointsfilename"
+			],
+			[
+				"sql",
+				"sqlDisplayName"
+			],
+			[
+				"write-",
+				"write-host"
+			],
+			[
+				"write",
+				"write-error"
+			],
+			[
+				"scri",
+				"scriptfilesource"
+			],
+			[
+				"script",
+				"scriptfile"
+			],
+			[
+				"lbre",
+				"lbrepos"
+			],
+			[
+				"postman",
+				"postman_environment"
+			],
+			[
+				"S",
+				"Substring"
+			],
+			[
+				"bash",
+				"bash_profile"
+			],
+			[
+				"nuget",
+				"nugetconfig"
+			],
+			[
+				"rem",
+				"remotehost"
+			],
+			[
+				"ssh",
+				"sshdir"
+			],
+			[
+				"init",
+				"initProjectorsOnly"
+			],
+			[
+				"tasks",
+				"taskscmd"
+			],
+			[
+				"Crea",
+				"CreateMattersTempTasksTemplates"
+			],
+			[
+				"webap",
+				"webapi"
+			],
+			[
+				"db",
+				"dbAndEventstoreOnly"
+			],
+			[
+				"Ps",
+				"PSScriptRoot"
+			],
+			[
+				"lib",
+				"lbenvironment"
+			],
+			[
+				"scrip",
+				"scriptfile"
+			],
+			[
+				"my",
+				"mySshId"
+			],
+			[
+				"copy",
+				"copyMySshId"
+			],
+			[
+				"dotne",
+				"dotnetCentos7Url"
+			],
+			[
+				"comm",
+				"CommandLine"
+			],
+			[
+				"Wa",
+				"watchers"
+			],
+			[
+				"LA",
+				"LASTEXITCODE"
+			],
+			[
+				"web",
+				"webapi"
+			],
+			[
+				"ping",
+				"pingUrl"
+			],
+			[
+				"test",
+				"testscripts"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"ASP",
+				"ASPNETCORE_ENVIRONMENT"
+			],
+			[
+				"sq",
+				"sqldatabase"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"xToExtr",
+				"xToExtrapolate"
+			],
+			[
+				"rotatByThe",
+				"rotateByThetaMatrix"
+			],
+			[
+				"The",
+				"Theta2"
+			],
+			[
+				"sin",
+				"singleWordList"
+			],
+			[
+				"yte",
+				"ytest3w"
+			],
+			[
+				"yva",
+				"yval3w"
+			],
+			[
+				"yv",
+				"yval2w"
+			],
+			[
+				"input",
+				"inputSize"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"Th",
+				"Theta2"
+			],
+			[
+				"th",
+				"Theta1"
+			],
+			[
+				"end",
+				"endfunction"
+			],
+			[
+				"ytest",
+				"ytestnd"
+			],
+			[
+				"cell",
+				"cell2mat"
+			],
+			[
+				"max",
+				"maxWords"
+			],
+			[
+				"min",
+				"minNonZeroCode"
+			],
+			[
+				"vo",
+				"vowelDominant"
+			],
+			[
+				"empty",
+				"emptyCode0"
+			],
+			[
+				"voew",
+				"vowelDominant"
+			],
+			[
+				"is1of",
+				"is1ofForm0"
+			],
+			[
+				"stop",
+				"stoppedEarly"
+			],
+			[
+				"err",
+				"error_train"
+			],
+			[
+				"warning",
+				"warningState"
+			],
+			[
+				"resu",
+				"resultMeanError"
+			],
+			[
+				"save",
+				"savewarn"
+			],
+			[
+				"yt",
+				"ytest"
+			],
+			[
+				"sing",
+				"singlewords"
+			],
+			[
+				"cat",
+				"cat2Data"
+			],
+			[
+				"str",
+				"strlengtht"
+			],
+			[
+				"vow",
+				"vowelDelims"
+			],
+			[
+				"vowe",
+				"vowelDelims"
+			],
+			[
+				"voe",
+				"vowelDelims"
+			],
+			[
+				"error",
+				"error_train"
+			],
+			[
+				"sve",
+				"saveFileName"
+			],
+			[
+				"sav",
+				"savedFiles"
+			],
+			[
+				"train",
+				"trainResult"
+			],
+			[
+				"xva",
+				"xvalLabels"
+			],
+			[
+				"su",
+				"subset"
+			],
+			[
+				"Xt",
+				"Xtest"
+			],
+			[
+				"Xv",
+				"Xval"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"cod",
+				"ccodeSentences"
+			],
+			[
+				"ends",
+				"endswitch"
+			],
+			[
+				"sen",
+				"sentencesCat0"
+			],
+			[
+				"spli",
+				"splitLabelledData"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"ccode",
+				"ccodeSentences"
+			],
+			[
+				"ccod",
+				"ccodeSentences"
+			],
+			[
+				"sent",
+				"sentences"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"cls",
+			"print( os.environ['LOGNAME'] )",
+			"print( os.environ['NODE_PATH'] )",
+			"import os",
+			"print( os.environ['OS'] )",
+			"print( os.environ['NODE_PATH'] )",
+			"print( os.environ[\"NODE_PATH\"] )",
+			"print os.environ[\"NODE_PATH\"]",
+			"import os",
+			"$NODE_PATH",
+			"1+1",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src/components"
+	],
+	"file_history":
+	[
+		"/B/Users/Chris/Source/Repos/legalbricks/ops/6d3acd400f6090b824a2.postman.json",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src/components/search_bar.js",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src/components/video_list_item.js",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src/components/video_list.js",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/index.html",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src/index.js",
+		"/B/Users/Chris/Source/Scratch/UdemyReactRedux/src/components/video_detail.js",
+		"/B/Users/Chris/OneDrive/DevMachine/Software.txt",
+		"/Q/May personal.txt",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/src/index.js",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/src/components/search_bar.js",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/index.html",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/.babelrc",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/src/components/app.js",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/package.json",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/README.md",
+		"/B/Users/Chris/Source/Repos/ReduxSimpleStarter/webpack.config.js",
+		"/D/Chris/iTunes/iTunes Media/TranscodeForUsbPlaylist.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/webapp/src/ReactClient/README.md",
+		"//192.168.42.129@8081/storage/extSdCard/Android/data/com.doubleTwist.androidPlayer/files/doubleTwist/README.txt",
+		"//192.168.42.129@8081/sdcard/doubleTwist/README.txt",
+		"/C/Users/Chris/Downloads/DBS 201704 Apr.pdf",
+		"/Q/Chris Personal.txt",
+		"/C/Users/Chris/Source/Repos/ReduxCasts/README.md",
+		"/Q/Business.txt",
+		"/Q/Business Technical.txt",
+		"/Q/Olli.txt",
+		"/B/Users/Chris/Source/Repos/legalbricks/ops/lb-environmentforbuild.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/eventstore/FromDockerFile/Dockerfile",
+		"/C/Users/Chris/Source/Repos/legalbricks/eventstore/FromDockerFile/entrypoint.sh",
+		"/C/Users/Chris/.ssh/known_hosts",
+		"/C/Users/Chris/Source/Repos/legalbricks/eventstore/FromDockerFile/authorized_keys",
+		"/B/Users/Chris/Source/Repos/legalbricks/eventstore/FromDockerFile/Dockerfile",
+		"/B/Users/Chris/Source/Repos/legalbricks/eventstore/FromDockerHub/Dockerfile",
+		"/C/Users/Chris/Source/dockering/Dockerfile for centos eventstore draft",
+		"/B/Users/Chris/Source/Repos/legalbricks/ops/lballenvironments.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/update-lambda-configuration-tasks-webapi.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/tasks-webapi.lambda-configuration.json",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/tasks-traffic-TrafficLightEvaluator.lambda-configuration.json",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-lambda-configuration.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/clientmanagement.webapi/update-lambda-configuration.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/clientmanagement.webapi/clientmanagement.lambda-configuration.json",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/update-lambda-configuration-tasks-trafficlightevaluator.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/tasks.ecs-task-definition.json",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/update-lambda-configuration.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/matters.lambda-configuration.json",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/tasks.lambda-configuration.json",
+		"/B/Users/Chris/Source/Repos/legalbricks/matters.webapi/matters.lambda-configuration.json",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/update-ecs-task-and-service.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/matters.ecs-task-definition.json",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-ecs-task-and-service.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/update-ecs-task-and-service.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-ecs-task-and-service-matters.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/tasks.ecs-task-definition.json",
+		"/B/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-ecs-service-matters-to-latest-task-definition.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/matters.webapi/matters.ecs-task-definition.json",
+		"/B/Users/Chris/Source/Repos/legalbricks/eventstore/docker-run.sh",
+		"/B/Users/Chris/Source/Repos/legalbricks/ops/lb-centos-run.sh",
+		"/B/Users/Chris/Source/Repos/legalbricks/eventstore/CentOS-Linux-7/Dockerfile",
+		"/B/Users/Chris/Source/Repos/legalbricks/matters.webapi/ecs-task-definition-matters.json",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-update-docker-ecr-repo.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/run.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/update-docker-ecr-trafficlightevaluationprojector.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-docker-ecr-joblinker.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-docker-ecr-matterviewprojector.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/matters.webapi/update-docker-ecr-joblinker.ps1",
+		"/C/Users/Chris/.legalbricks/ec2-54-72-9-204.eu-west-1.compute.amazonaws.com/lbenvironment-vm-in-vpc.ps1",
+		"/C/Program Files/Commands/cdle.ps1",
+		"/B/Users/Chris/Source/dockering/docker-compose.yml",
+		"/C/Users/Chris/.aws/credentialsChrisAc",
+		"/C/Users/Chris/.aws/credentials",
+		"/C/Users/Chris/GetStarted2/Dockerfile",
+		"/B/Users/Chris/Source/dockering/GetStarted2/app.py",
+		"/B/Users/Chris/OneDrive/My Notes/Apologetics and Testimony/On hauskeller on Craig on the Absurdity of Life without God 2017.txt",
+		"/C/Users/Chris/GetStarted2/requirements.txt",
+		"/C/Users/Chris/GetStarted2/app.py",
+		"/C/Users/Chris/Source/dockering/GetStarted2/Dockerfile",
+		"/C/Users/Chris/Source/dockering/GetStarted2/app.py",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-environmentforbuild.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/run-matters.matterviewprojector.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/run.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-run.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/webapp/run-all-the-things.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-create.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-run-centos.sh",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/src/LegalBricks.Matters.WebApi.sln",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/aws-lambda-test-get-templates.json",
+		"/C/Users/Chris/.legalbricks/lballenvironmentsbuildsecrets.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/aws-lambda-test-get-ping.json",
+		"/C/Users/Chris/.legalbricks/vm-in-vpc-amazonlinux/lbenvironment-vm-in-vpc-amazonlinux.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-centos-bootstrap-vm.sh",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/nginx for kestrel.conf",
+		"/C/Users/Chris/Downloads/download",
+		"/C/Users/Chris/.legalbricks/192.168.0.26/lbenvironment-uat-192.168.0.26.ps1",
+		"/C/Users/Chris/.legalbricks/146.247.49.38/lbenvironment-uat1.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-centos-updateandrestart.sh",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-centos-rebuildandrestart.sh",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-deploy-to-vm.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/scripts/EnsureSchema-lb-tasks.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.jobviewprojector/scripts/EnsureJobViewProjector-in-Schema-lb-tasks.ps1",
+		"/B/Users/Chris/Source/Repos/legalbricks/tasks.webapi/scripts/EnsureSchema-lb-tasks.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-centos-run.sh",
+		"/C/Users/Chris/.legalbricks/lbenvironment.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-build-and-run.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/run.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/tasks.webapi/src/LegalBricks.Tasks.WebApi.sln",
+		"/C/Users/Chris/Source/Repos/legalbricks/matters.webapi/run-matters.joblinker.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/postgres/EnsurePostgresHostAndPasswordsFile.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-killall.ps1",
+		"/C/Users/Chris/Documents/myblocklist.txt",
+		"/B/Users/Chris/Desktop/conemu snippets.txt",
+		"/B/Users/Chris/Desktop/example.tex",
+		"/C/Users/Chris/Source/Repos/legalbricks/eventstore/Help.EventStore.oss-v3.9.3.txt",
+		"/C/Program Files/freac-20170317-x64/Readme",
+		"/C/Program Files/ffmpeg/ffmpeg-20170503-a75ef15-win64-static/README.txt",
+		"/C/Users/Chris/Source/Repos/legalbricks/eventstore/run.ps1",
+		"/C/Users/Chris/.legalbricks/ec2-54-72-9-204.eu-west-1.compute.amazonaws.com/vm-in-vpc.postman_environment.json",
+		"/C/Users/Chris/.legalbricks/zip.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-test-all-service-endpoints-short-ping-and-get-test.ps1",
+		"/C/Users/Chris/.legalbricks/ec2-34-253-134-249.eu-west-1.compute.amazonaws.com/vm-in-vpc.postman_environment.json",
+		"/C/Users/Chris/.legalbricks/ec2-34-253-134-249.eu-west-1.compute.amazonaws.com/lbenvironment-vm-in-vpc.ps1",
+		"/C/Users/Chris/.legalbricks/vm-in-vpc/lbenvironment-vm-in-vpc.ps1",
+		"/C/Users/Chris/.legalbricks/.gitignore",
+		"/C/Users/Chris/.legalbricks/lbenvironment-vm-in-vpc.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lb-ssh.ps1",
+		"/C/Users/Chris/.legalbricks/ec2-54-76-104-30.eu-west-1.compute.amazonaws.com/lbenvironment-vm-in-vpc.ps1",
+		"/C/Users/Chris/.legalbricks/ec2-34-252-245-103.eu-west-1.compute.amazonaws.com/lbenvironment-vm-in-vpc.ps1",
+		"/C/Users/Chris/Source/Repos/legalbricks/ops/lballenvironments.ps1"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"",
+			"B:\\Users\\Chris\\Source\\Repos\\legalbricks\\ops",
+			"<open files>,B:\\Users\\Chris\\Source\\Repos\\legalbricks\\ops",
+			"<open files>",
+			"C:\\Users\\Chris\\Source\\Repos\\legalbricks\\ops,C:\\Users\\Chris\\.legalbricks",
+			"",
+			"C:\\Users\\Chris\\Source\\Repos\\legalbricks\\eventstore,C:\\Users\\Chris\\Source\\Repos\\legalbricks\\ops",
+			"<open folders>",
+			"<open files>",
+			"<open folders>,B:\\Users\\Chris\\Source\\material-components-web",
+			"<open folders>",
+			"workDaysPerYear"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"admin",
+			"user",
+			"lib/",
+			"172.31.26.247",
+			"\n      ",
+			"7",
+			"apt-get",
+			"repos",
+			"\\$me",
+			"\\$myrepo",
+			"target",
+			"source",
+			"their",
+			"s",
+			"fundamentally–Really",
+			"ending",
+			"?)",
+			"technical",
+			"if",
+			"and",
+			"as",
+			"restatement",
+			"matterviewprojectpr",
+			":80",
+			"5003",
+			"tasks.job",
+			"start powershell ../",
+			"-ArgumentList \"([^\"]+)\"",
+			"\\t",
+			" +$",
+			"int",
+			"ext-",
+			"ec2-34-253-134-249.eu-west-1.compute.amazonaws.com",
+			"ec2-54-76-122-184.eu-west-1.compute.amazonaws.com",
+			"`",
+			"2113",
+			"ec2-54-76-104-30.eu-west-1.compute.amazonaws.com",
+			"^Lb_",
+			" $me.dll",
+			"_WebApiASP",
+			"postmanendpoints_cm_endpoint",
+			"netcoreapp10",
+			"mydir",
+			"write-host",
+			"dotnet",
+			"filename",
+			"ASPNETCORE_URLS",
+			"=Lb",
+			"192.168.0.26",
+			"146.247.49.38",
+			"__//",
+			":",
+			"^\\$",
+			"\\$env:",
+			"(\\$host.UI.RawUI.*)",
+			"\\$host.UI.RawUI.*",
+			"146.247.49.38",
+			"lbuat1host",
+			"\\d+\\.",
+			"\\(Detached\\)",
+			" ",
+			"host",
+			"eu",
+			"lb-environmentforbuild.ps1",
+			"5105",
+			"WWW at (\\d+) \\(HTTP\\)",
+			",",
+			"\\]\\.(\\w+)\\s*=\\s*(.*)",
+			"\\]\\.(\\w+)",
+			"$deploywhere",
+			"deploywhere",
+			"remotehost",
+			"  [Parameter()][string]",
+			"lbvminvpc",
+			"lbvminvpcamazonlinux",
+			"  [Parameter()][string]$",
+			"localhost",
+			"prefix",
+			"52.208.202.33",
+			"ec2-52-208-202-33.eu-west-1.compute.amazonaws.com",
+			"VM-in-VPC",
+			"lbscripts",
+			"yum -y",
+			"ec2-52-30-31-160.eu-west-1.compute.amazonaws.com",
+			"52.30.31.160",
+			"rpm",
+			"ssh",
+			"centos.bashrc",
+			"/usr/local/legalbricks",
+			"~",
+			"systemctl",
+			"yum -y",
+			"lbidcertificatepath",
+			"146.247.49.38",
+			"Uat3",
+			"Uat2",
+			"146.247.49.38",
+			"start \"",
+			"powershell -ArgumentList ",
+			"Powershell",
+			"start-process",
+			"\\",
+			"postmanendpoints.",
+			"(\\w+):(\\w+)",
+			"$env:",
+			"postman_environment_file",
+			"GRANT",
+			"Lb__VM",
+			"$env:Lb:Postgres:lbscriptrunner",
+			"$env:Lb:Postgres:lbscriptrunner:password",
+			"\\",
+			"lb-centos-install",
+			"__",
+			"psqldo",
+			"psql -X -q -1 -v ON_ERROR_STOP=1 -U $lbscriptrunner --host=$env:Lb:Postgres:host -d lb -f",
+			"-d lb -U $lbscriptrunner",
+			"-U lbscriptrunner",
+			"__",
+			"dbOnly",
+			"psql -X -q -V -1 ON_ERROR_STOP=1 ",
+			"doPostgres",
+			"dbOnly",
+			"psql ",
+			"psql -X -q -a -1 -v ON_ERROR_STOP=1 ",
+			"psql ",
+			"rows",
+			"INSERT ",
+			"\\\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"172.31.19.17",
+			"yum -y",
+			"$projectName",
+			"$repoName",
+			"targetimage",
+			"sourceimage",
+			"matterviewprojector",
+			":5003",
+			"",
+			"80",
+			"start powershell $lbRootDir/",
+			"\\1",
+			" ",
+			"",
+			"ec2-54-72-9-204.eu-west-1.compute.amazonaws.com",
+			"ec2-34-253-134-249.eu-west-1.compute.amazonaws.com",
+			"export Lb_",
+			" dotnet $me.dll",
+			"dotnet  $me.dll",
+			"WebApi_ASP",
+			"postmanendpoints_clientmanagement_endpoint",
+			"netcoreapp1.0",
+			"scriptRoot",
+			"echo",
+			"file",
+			"_ASPNETCORE_URLS",
+			"=$Lb",
+			"54.76.122.184",
+			"$Lb__Host",
+			"://",
+			"__",
+			"",
+			"$",
+			"",
+			"if(isWindows){ $1 }",
+			"192.168.0.26",
+			"lbchrisdev2host",
+			"",
+			"5120",
+			"Http at \\1",
+			"].Add($1 , $2 )",
+			"][\"$1\"]",
+			"$deploySetName",
+			"",
+			"lbuat1host",
+			"lbvminvpc",
+			"$deploysets[$lbvminvpcamazonlinux].",
+			"146.247.49.38",
+			"54.76.122.184",
+			"ec2-54-76-122-184.eu-west-1.compute.amazonaws.com",
+			"vm-in-vpc",
+			"sudo yum -y",
+			"ec2-52-208-202-33.eu-west-1.compute.amazonaws.com",
+			"52.208.202.33",
+			"amlinux.bashrc",
+			"$lbRootDir",
+			"sudo systemctl",
+			"sudo yum -y",
+			"idcertificatepath",
+			"ec2-52-30-31-160.eu-west-1.compute.amazonaws.com",
+			"VM-in-VPC",
+			"Uat3",
+			"ec2-52-30-31-160.eu-west-1.compute.amazonaws.com",
+			"screen -dmS ",
+			"",
+			"powershell",
+			"start",
+			"/",
+			"postmanendpoints_",
+			"\\1__\\2",
+			"",
+			"Lb__Host",
+			"$role.name",
+			"$role.password",
+			"/",
+			"lb-centos-bootstrap-vm",
+			":",
+			"",
+			"psql-do",
+			"psqldo",
+			"-U $lbscriptrunner --host=$env:Lb:Postgres:host -d lb",
+			"-U $lbscriptrunner",
+			":",
+			"databaseOnly",
+			"psql -X -q -1 -v ON_ERROR_STOP=1 ",
+			"doDatabase",
+			"databaseOnly",
+			"psql -X -q -V -1 ON_ERROR_STOP=1 ",
+			"psql -X -q -a -1 ON_ERROR_STOP=1 ",
+			"psql -X -q -a -1 -v ON_ERROR_STOP=1 ",
+			"Insert into ",
+			"/",
+			"cm",
+			"tasks",
+			"/",
+			"$env:",
+			"$env__$1",
+			"$env__$1__$2__$3__$4",
+			"__",
+			"skipCopy",
+			"deploywhat",
+			"{{eventstore_endpoint}}",
+			"{{iam_endpoint}}",
+			"{{tasks_endpoint}}",
+			"{{matters_endpoint}}",
+			"{{clientmanagement_endpoint}}",
+			"{{webapp_endpoint}}",
+			"{{tasks_endpoint}}",
+			"EndpointUrl",
+			"/",
+			";32",
+			" ",
+			"",
+			"export ",
+			"",
+			"lbscriptsbitbucketemail",
+			"lbscriptspassword",
+			"lb-environmentforbuild",
+			"lbenvironmentforbuild",
+			"/",
+			"lbidcertificatepath",
+			"",
+			"lballenvironments.ps1",
+			"$PSScriptRoot/lballenvironments",
+			"environmentfilename",
+			"",
+			"tasksAdapter",
+			"tasksCmd"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 313.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 37.0
+	},
+	"pinned_build_system": "",
+	"project": "ReduxSimpleStarter.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
