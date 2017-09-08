@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import React, {Component} from 'react';
 //import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
@@ -6,7 +7,7 @@ import VideoList from './video_list';
 import VideoDetail from './video_detail';
 
 
-class SearchWidget extends Component{
+class YouTubeSearcher extends Component{
 
 	state = {videos: [], selectedVideo:null };
 	
@@ -17,11 +18,13 @@ class SearchWidget extends Component{
   constructor(props){
 	  super(props);
 	  this.updateDetailOnVideoSelect=this.updateDetailOnVideoSelect.bind(this);
+	  this.videoSearch= _.debounce( this.videoSearch.bind(this), 400 );
 	}
 
- 	render(){ return (
+ 	render(){
+    return (
 		<div>
-			<SearchBar onSearchTermChange={term=>this.videoSearch(term)}/>
+			<SearchBar onSearchTermChange={this.videoSearch}/>
       <VideoDetail video={this.state.selectedVideo}/>
 			<VideoList
         videos={this.state.videos}
@@ -47,4 +50,4 @@ class SearchWidget extends Component{
 
 }
 
-export default SearchWidget;
+export default YouTubeSearcher;

@@ -6,35 +6,18 @@ const searchBoxPlaceholderText="find videos…"
 
 class SearchBar extends Component {
 
-	state={term:'', lastKeyPress:undefined}
-
-	constructor(props){
-		super(props);
-		this.onInput=this.onInput.bind(this);
-		this.onChangeValue=this.onChangeValue.bind(this);
-	}
+	constructor(props){ super(props);}
 
 	render() {
 		console.log('render');
 		return (
 			<div className="search-bar">
-			  <input value={this.state.term}
-							 onInput={this.onInput}
+			  <input
 							 placeholder={searchBoxPlaceholderText}
-							 onChange={e=>this.onChangeValue(e.target.value)}/>
-				 ( {this.state.term} / {this.state.lastKeyPress} )
+							 onChange={e=>this.props.onSearchTermChange(e.target.value)}/>
 			</div>
 		);
 	}
-
-	onInput(e){ this.setState( {lastKeyPress: e.which }); }
-
-	onChangeValue(term){
-		this.setState({term});
-		this.props.onSearchTermChange(term);
-	}
-
-	toString(){ return this.state; }
 }
 
 export default SearchBar;
