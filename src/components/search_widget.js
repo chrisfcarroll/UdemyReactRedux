@@ -11,22 +11,17 @@ class SearchWidget extends Component{
 	state = {videos: [], selectedVideo:null };
 	
 	componentWillMount(){
-		YTSearch(
-			{key:'AIzaSyB13uI4dyboew2ZPMQ-vzbUiSdBmd1Q8tU', term:'surfboards'},
-			videos=> { 
-				console.log(videos) ; 
-				this.setState({videos, selectedVideo:videos[0] });}
-			);
+    this.videoSearch('react redux');
 	}
 
-	constructor(props){
+  constructor(props){
 	  super(props);
 	  this.updateDetailOnVideoSelect=this.updateDetailOnVideoSelect.bind(this);
 	}
 
  	render(){ return (
 		<div>
-			<SearchBar />
+			<SearchBar onSearchTermChange={term=>this.videoSearch(term)}/>
       <VideoDetail video={this.state.selectedVideo}/>
 			<VideoList
         videos={this.state.videos}
@@ -36,6 +31,15 @@ class SearchWidget extends Component{
 		); 
 	}
 
+  videoSearch(term) {
+    YTSearch(
+      {key: 'AIzaSyB13uI4dyboew2ZPMQ-vzbUiSdBmd1Q8tU', term: term},
+      videos => {
+        console.log(videos);
+        this.setState({videos, selectedVideo: videos[0]});
+      }
+    );
+  }
 	updateDetailOnVideoSelect(v){
  	  console.log("updating from ", v);
     this.setState( {selectedVideo:v} );

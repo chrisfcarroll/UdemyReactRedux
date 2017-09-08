@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 
-
 const SearchBarV1= function(){ return <input/>; }
 
 const searchBoxPlaceholderText="find videos…"
@@ -12,28 +11,27 @@ class SearchBar extends Component {
 	constructor(props){
 		super(props);
 		this.onInput=this.onInput.bind(this);
-		this.onKeyPress=this.onKeyPress.bind(this);
+		this.onChangeValue=this.onChangeValue.bind(this);
 	}
 
 	render() {
 		console.log('render');
 		return (
-			<div>
-			  <input value={this.state.term} onInput={this.onInput} placeholder={searchBoxPlaceholderText} onKeyPress={this.onKeyPress}/>
+			<div className="search-bar">
+			  <input value={this.state.term}
+							 onInput={this.onInput}
+							 placeholder={searchBoxPlaceholderText}
+							 onChange={e=>this.onChangeValue(e.target.value)}/>
 				 ( {this.state.term} / {this.state.lastKeyPress} )
 			</div>
 		);
 	}
 
-	onInput(e){ 
-		const v=e.target.value; 
-		this.setState( s=> ({term : v, lastKeyPress: s.lastKeyPress })); 
-	}
+	onInput(e){ this.setState( {lastKeyPress: e.which }); }
 
-	onKeyPress(e){ 
-		const t= e.target.value; 
-		const k= e.which;
-		this.setState( s=>({term : s.term, lastKeyPress: k }));
+	onChangeValue(term){
+		this.setState({term});
+		this.props.onSearchTermChange(term);
 	}
 
 	toString(){ return this.state; }
